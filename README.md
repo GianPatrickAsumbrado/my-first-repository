@@ -8,7 +8,7 @@
 
 ## Short Introduction
 
-Hi! I am Your Full Name, a student of Your Course Name. I enjoy learning new things about computers and technology. I am excited to learn how Git and GitHub work and how they can help me organize and manage my projects.
+Hi!, I enjoy learning new things about computers and technology. I am excited to learn how Git and GitHub work and how they can help me organize and manage my projects.
 
 ### My Learning Goal
 
